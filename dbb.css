@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+	<style type="text/css">
+	/*h1 {
+		background: red;
+     }
+     h2 {
+		background: blue;
+     }*/
+     p {
+		/*background: yellow;
+		border-color: blue;
+		border-width: 6px;
+		border-style: dashed;
+*/
+		border: 6px dotted blue;
+     }
+
+     	div{
+
+	background: pink;
+}
+     body{ background: url(https://i.mycdn.me/videoPreview?id=2226717997&type=47&idx=30&tkn=GFKbxeUrAbfaWEROXhC839k3CkA&i=1&fn=external_8) }
+
+</style>
+</head>
+<body>
+
+<div>
+<h1>Вig header</h1>
+<h2>Middle header</h2>
+
+
+</div>
+
+<!--some text-->
+	<h3>Small header</h3>
+	<p>Some  paragraph</p>
+	<p>Some  paragraph</p>
+	<p>Some  paragraph</p>
+
+
+</body>
+</html>
+
